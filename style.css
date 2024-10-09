@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  color: #f9f9f9;
+}
+section {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 40px;
+}
+.parallax-hero {
+  background-color: #8f44fd;
+}
+.parallax-about {
+  background-color: yellowgreen;
+}
